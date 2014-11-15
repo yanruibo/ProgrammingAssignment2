@@ -1,5 +1,4 @@
 
-
 ## @author alvin
 ## @description answer to ProgrammingAssignment2 
 
